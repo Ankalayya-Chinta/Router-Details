@@ -1,0 +1,574 @@
+CRITICAL - 2023-02-04 17:20:59 --> Class "CI_Controller" not found
+in APPPATH/Controllers/ImportRouterData.php on line 6.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/ImportRouterData.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImportRouterData')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImportRouterData')
+ 5 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\ImportRouterData', true)
+ 6 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:22:33 --> Class "CI_Controller" not found
+in APPPATH/Controllers/ImportRouterData.php on line 6.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/ImportRouterData.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImportRouterData')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImportRouterData')
+ 5 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\ImportRouterData', true)
+ 6 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:22:51 --> Class "CI_Controller" not found
+in APPPATH/Controllers/ImportRouterData.php on line 6.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/ImportRouterData.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImportRouterData')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImportRouterData')
+ 5 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\ImportRouterData', true)
+ 6 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:22:58 --> Class "CI_Controller" not found
+in APPPATH/Controllers/ImportRouterData.php on line 6.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/ImportRouterData.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImportRouterData')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImportRouterData')
+ 5 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\ImportRouterData', true)
+ 6 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:30:47 --> Class "BaseController" not found
+in APPPATH/Controllers/ImportRouterData.php on line 6.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/ImportRouterData.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImportRouterData')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImportRouterData')
+ 5 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\ImportRouterData', true)
+ 6 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:31:35 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH/Controllers/ImportRouterData.php on line 6.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-02-04 17:31:37 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH/Controllers/ImportRouterData.php on line 6.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-02-04 17:31:48 --> Cannot call constructor
+in APPPATH/Controllers/ImportRouterData.php on line 10.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:31:49 --> Cannot call constructor
+in APPPATH/Controllers/ImportRouterData.php on line 10.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:31:49 --> Cannot call constructor
+in APPPATH/Controllers/ImportRouterData.php on line 10.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:32:12 --> Cannot call constructor
+in APPPATH/Controllers/ImportRouterData.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:32:13 --> Cannot call constructor
+in APPPATH/Controllers/ImportRouterData.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:32:24 --> Cannot call constructor
+in APPPATH/Controllers/ImportRouterData.php on line 10.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:32:38 --> Undefined property: App\Controllers\ImportRouterData::$load
+in APPPATH/Controllers/ImportRouterData.php on line 12.
+ 1 APPPATH/Controllers/ImportRouterData.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$load', 'APPPATH/Controllers/ImportRouterData.php', 12)
+ 2 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 3 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:33:57 --> Undefined property: App\Controllers\ImportRouterData::$load
+in APPPATH/Controllers/ImportRouterData.php on line 12.
+ 1 APPPATH/Controllers/ImportRouterData.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$load', 'APPPATH/Controllers/ImportRouterData.php', 12)
+ 2 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 3 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:34:56 --> Undefined property: App\Controllers\ImportRouterData::$load
+in APPPATH/Controllers/ImportRouterData.php on line 12.
+ 1 APPPATH/Controllers/ImportRouterData.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$load', 'APPPATH/Controllers/ImportRouterData.php', 12)
+ 2 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 3 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:34:59 --> Undefined property: App\Controllers\ImportRouterData::$load
+in APPPATH/Controllers/ImportRouterData.php on line 12.
+ 1 APPPATH/Controllers/ImportRouterData.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$load', 'APPPATH/Controllers/ImportRouterData.php', 12)
+ 2 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 3 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:34:59 --> Undefined property: App\Controllers\ImportRouterData::$load
+in APPPATH/Controllers/ImportRouterData.php on line 12.
+ 1 APPPATH/Controllers/ImportRouterData.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$load', 'APPPATH/Controllers/ImportRouterData.php', 12)
+ 2 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 3 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:34:59 --> Undefined property: App\Controllers\ImportRouterData::$load
+in APPPATH/Controllers/ImportRouterData.php on line 12.
+ 1 APPPATH/Controllers/ImportRouterData.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$load', 'APPPATH/Controllers/ImportRouterData.php', 12)
+ 2 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 3 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:37:12 --> Undefined property: App\Controllers\ImportRouterData::$load
+in APPPATH/Controllers/ImportRouterData.php on line 12.
+ 1 APPPATH/Controllers/ImportRouterData.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$load', 'APPPATH/Controllers/ImportRouterData.php', 12)
+ 2 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 3 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:39:40 --> Undefined property: App\Controllers\ImportRouterData::$load
+in APPPATH/Controllers/ImportRouterData.php on line 12.
+ 1 APPPATH/Controllers/ImportRouterData.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$load', 'APPPATH/Controllers/ImportRouterData.php', 12)
+ 2 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 3 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:42:36 --> Undefined property: App\Controllers\ImportRouterData::$load
+in APPPATH/Controllers/ImportRouterData.php on line 12.
+ 1 APPPATH/Controllers/ImportRouterData.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$load', 'APPPATH/Controllers/ImportRouterData.php', 12)
+ 2 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 3 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:45:48 --> Class "App\Controllers\Import_model" not found
+in APPPATH/Controllers/ImportRouterData.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:46:46 --> Class "App\Controllers\App" not found
+in APPPATH/Controllers/ImportRouterData.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:48:06 --> Class "App\Controllers\App" not found
+in APPPATH/Controllers/ImportRouterData.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:49:17 --> Class "CI_Model" not found
+in APPPATH/Models/Import_model.php on line 5.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Models/Import_model.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Import_model')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Import_model')
+ 5 SYSTEMPATH/Config/Factories.php(155): class_exists('App\\Models\\Import_model')
+ 6 SYSTEMPATH/Config/Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'App\\Controllers\\Import_model')
+ 7 SYSTEMPATH/Config/Factories.php(86): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 SYSTEMPATH/Common.php(818): CodeIgniter\Config\Factories::models('App\\Controllers\\Import_model', [...], null)
+ 9 APPPATH/Controllers/ImportRouterData.php(12): model('App\\Controllers\\Import_model')
+10 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+11 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:49:58 --> Class "App\Models\Model" not found
+in APPPATH/Models/Import_model.php on line 7.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Models/Import_model.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Import_model')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Import_model')
+ 5 SYSTEMPATH/Config/Factories.php(155): class_exists('App\\Models\\Import_model')
+ 6 SYSTEMPATH/Config/Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'App\\Controllers\\Import_model')
+ 7 SYSTEMPATH/Config/Factories.php(86): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 SYSTEMPATH/Common.php(818): CodeIgniter\Config\Factories::models('App\\Controllers\\Import_model', [...], null)
+ 9 APPPATH/Controllers/ImportRouterData.php(12): model('App\\Controllers\\Import_model')
+10 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+11 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:51:02 --> Cannot call constructor
+in APPPATH/Controllers/ImportRouterData.php on line 10.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:51:14 --> Undefined property: App\Controllers\ImportRouterData::$load
+in APPPATH/Controllers/ImportRouterData.php on line 18.
+ 1 APPPATH/Controllers/ImportRouterData.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$load', 'APPPATH/Controllers/ImportRouterData.php', 18)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:51:31 --> Call to undefined function form_open_multipart()
+in APPPATH/Views/import/index.php on line 11.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/index', [], true)
+ 4 APPPATH/Controllers/ImportRouterData.php(18): view('import/index', [...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 17:53:41 --> Call to undefined function form_open_multipart()
+in APPPATH/Views/import/index.php on line 11.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/index', [], true)
+ 4 APPPATH/Controllers/ImportRouterData.php(18): view('import/index', [...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 18:55:55 --> Call to undefined function error_display()
+in APPPATH/Views/import/index.php on line 1.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/index', [], true)
+ 4 APPPATH/Controllers/ImportRouterData.php(21): view('import/index')
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 18:56:29 --> Call to undefined function error_display()
+in APPPATH/Views/import/index.php on line 1.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/index', [], true)
+ 4 APPPATH/Controllers/ImportRouterData.php(21): view('import/index')
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 19:54:17 --> Undefined property: App\Controllers\ImportRouterData::$input
+in APPPATH/Controllers/ImportRouterData.php on line 28.
+ 1 APPPATH/Controllers/ImportRouterData.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$input', 'APPPATH/Controllers/ImportRouterData.php', 28)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->save()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 19:58:49 --> Undefined property: App\Controllers\ImportRouterData::$upload
+in APPPATH/Controllers/ImportRouterData.php on line 33.
+ 1 APPPATH/Controllers/ImportRouterData.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$upload', 'APPPATH/Controllers/ImportRouterData.php', 33)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->save()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:00:40 --> Undefined property: App\Controllers\ImportRouterData::$upload
+in APPPATH/Controllers/ImportRouterData.php on line 34.
+ 1 APPPATH/Controllers/ImportRouterData.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$upload', 'APPPATH/Controllers/ImportRouterData.php', 34)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->save()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:03:56 --> Undefined property: App\Controllers\ImportRouterData::$upload
+in APPPATH/Controllers/ImportRouterData.php on line 33.
+ 1 APPPATH/Controllers/ImportRouterData.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$upload', 'APPPATH/Controllers/ImportRouterData.php', 33)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->save()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:09:00 --> Invalid file: "upload_form.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('upload_form.php')
+ 2 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('upload_form', [], true)
+ 3 APPPATH/Controllers/ImportRouterData.php(131): view('upload_form', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->uploads()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:09:46 --> Invalid file: "upload_form.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('upload_form.php')
+ 2 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('upload_form', [], true)
+ 3 APPPATH/Controllers/ImportRouterData.php(131): view('upload_form', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->uploads()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:09:55 --> Invalid file: "upload_form.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('upload_form.php')
+ 2 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('upload_form', [], true)
+ 3 APPPATH/Controllers/ImportRouterData.php(131): view('upload_form', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->uploads()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:18:27 --> Class "App\Controllers\File" not found
+in APPPATH/Controllers/ImportRouterData.php on line 138.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->uploads()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:20:03 --> Invalid file: "upload_success.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('upload_success.php')
+ 2 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('upload_success', [], true)
+ 3 APPPATH/Controllers/ImportRouterData.php(141): view('upload_success', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->uploads()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:36:09 --> mkdir(): Read-only file system
+in APPPATH/Controllers/ImportRouterData.php on line 82.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): Read-only file system', 'APPPATH/Controllers/ImportRouterData.php', 82)
+ 2 APPPATH/Controllers/ImportRouterData.php(82): mkdir('/uploads', 511, true)
+ 3 APPPATH/Controllers/ImportRouterData.php(30): App\Controllers\ImportRouterData->uploadFile('/uploads', null)
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:37:04 --> Call to a member function isValid() on null
+in APPPATH/Controllers/ImportRouterData.php on line 83.
+ 1 APPPATH/Controllers/ImportRouterData.php(30): App\Controllers\ImportRouterData->uploadFile('/uploads', null)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:38:10 --> PhpOffice\PhpSpreadsheet\Reader\BaseReader::load(): Argument #1 ($filename) must be of type string, null given, called in /Users/codeigniter4/app/Controllers/ImportRouterData.php on line 38
+in VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/BaseReader.php on line 167.
+ 1 APPPATH/Controllers/ImportRouterData.php(38): PhpOffice\PhpSpreadsheet\Reader\BaseReader->load(null)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:40:28 --> PhpOffice\PhpSpreadsheet\Reader\BaseReader::load(): Argument #1 ($filename) must be of type string, null given, called in /Users/codeigniter4/app/Controllers/ImportRouterData.php on line 38
+in VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/BaseReader.php on line 167.
+ 1 APPPATH/Controllers/ImportRouterData.php(38): PhpOffice\PhpSpreadsheet\Reader\BaseReader->load(null)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:41:45 --> File "New File" does not exist.
+in VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 149.
+ 1 VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php(412): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('New File', '_rels/.rels')
+ 2 VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/BaseReader.php(172): PhpOffice\PhpSpreadsheet\Reader\Xlsx->loadSpreadsheetFromFile('New File')
+ 3 APPPATH/Controllers/ImportRouterData.php(38): PhpOffice\PhpSpreadsheet\Reader\BaseReader->load('New File')
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:42:09 --> File "Testing" does not exist.
+in VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 149.
+ 1 VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php(412): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('Testing', '_rels/.rels')
+ 2 VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/BaseReader.php(172): PhpOffice\PhpSpreadsheet\Reader\Xlsx->loadSpreadsheetFromFile('Testing')
+ 3 APPPATH/Controllers/ImportRouterData.php(38): PhpOffice\PhpSpreadsheet\Reader\BaseReader->load('Testing')
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:42:34 --> File "Testing" does not exist.
+in VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 149.
+ 1 VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php(412): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('Testing', '_rels/.rels')
+ 2 VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/BaseReader.php(172): PhpOffice\PhpSpreadsheet\Reader\Xlsx->loadSpreadsheetFromFile('Testing')
+ 3 APPPATH/Controllers/ImportRouterData.php(38): PhpOffice\PhpSpreadsheet\Reader\BaseReader->load('Testing')
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:44:20 --> File "testing" does not exist.
+in VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 149.
+ 1 VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php(412): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('testing', '_rels/.rels')
+ 2 VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/BaseReader.php(172): PhpOffice\PhpSpreadsheet\Reader\Xlsx->loadSpreadsheetFromFile('testing')
+ 3 APPPATH/Controllers/ImportRouterData.php(38): PhpOffice\PhpSpreadsheet\Reader\BaseReader->load('testing')
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:44:38 --> File "testing.xlsx" does not exist.
+in VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 149.
+ 1 VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php(412): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('testing.xlsx', '_rels/.rels')
+ 2 VENDORPATH/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/BaseReader.php(172): PhpOffice\PhpSpreadsheet\Reader\Xlsx->loadSpreadsheetFromFile('testing.xlsx')
+ 3 APPPATH/Controllers/ImportRouterData.php(38): PhpOffice\PhpSpreadsheet\Reader\BaseReader->load('testing.xlsx')
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:51:05 --> mkdir(): Read-only file system
+in APPPATH/Controllers/ImportRouterData.php on line 83.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): Read-only file system', 'APPPATH/Controllers/ImportRouterData.php', 83)
+ 2 APPPATH/Controllers/ImportRouterData.php(83): mkdir('/uploads', 511, true)
+ 3 APPPATH/Controllers/ImportRouterData.php(31): App\Controllers\ImportRouterData->uploadFile('/uploads', null)
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:53:55 --> Call to a member function isValid() on null
+in APPPATH/Controllers/ImportRouterData.php on line 84.
+ 1 APPPATH/Controllers/ImportRouterData.php(31): App\Controllers\ImportRouterData->uploadFile('FCPATH/documents/users', null)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:54:39 --> Call to a member function getRandomName() on null
+in APPPATH/Controllers/ImportRouterData.php on line 85.
+ 1 APPPATH/Controllers/ImportRouterData.php(31): App\Controllers\ImportRouterData->uploadFile('FCPATH/documents/users', null)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:55:01 --> Call to a member function isValid() on null
+in APPPATH/Controllers/ImportRouterData.php on line 85.
+ 1 APPPATH/Controllers/ImportRouterData.php(31): App\Controllers\ImportRouterData->uploadFile('FCPATH/documents/users', null)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:57:29 --> Call to a member function isValid() on null
+in APPPATH/Controllers/ImportRouterData.php on line 85.
+ 1 APPPATH/Controllers/ImportRouterData.php(31): App\Controllers\ImportRouterData->uploadFile('FCPATH/documents/users', null)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:57:40 --> Call to a member function isValid() on null
+in APPPATH/Controllers/ImportRouterData.php on line 85.
+ 1 APPPATH/Controllers/ImportRouterData.php(31): App\Controllers\ImportRouterData->uploadFile('FCPATH/documents/users', null)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:59:05 --> Undefined property: App\Controllers\ImportRouterData::$userModel
+in APPPATH/Controllers/ImportRouterData.php on line 62.
+ 1 APPPATH/Controllers/ImportRouterData.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$userModel', 'APPPATH/Controllers/ImportRouterData.php', 62)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 20:59:42 --> syntax error, unexpected token "public"
+in APPPATH/Controllers/ImportRouterData.php on line 81.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/ImportRouterData.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImportRouterData')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImportRouterData')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\ImportRouterData', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 21:02:59 --> syntax error, unexpected token "}"
+in APPPATH/Controllers/ImportRouterData.php on line 80.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/ImportRouterData.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ImportRouterData')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ImportRouterData')
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists('\\App\\Controllers\\ImportRouterData', true)
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 21:06:27 --> Invalid file: "display.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('display.php')
+ 2 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('display', [], true)
+ 3 APPPATH/Controllers/ImportRouterData.php(57): view('display', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 21:08:11 --> Attempt to read property "name" on array
+in APPPATH/Views/import/display.php on line 26.
+ 1 APPPATH/Views/import/display.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on array', 'APPPATH/Views/import/display.php', 26)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(58): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 21:08:50 --> Attempt to read property "sap_id" on array
+in APPPATH/Views/import/display.php on line 26.
+ 1 APPPATH/Views/import/display.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "sap_id" on array', 'APPPATH/Views/import/display.php', 26)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(58): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-04 21:09:15 --> Attempt to read property "hostname" on array
+in APPPATH/Views/import/display.php on line 27.
+ 1 APPPATH/Views/import/display.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "hostname" on array', 'APPPATH/Views/import/display.php', 27)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(58): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')

@@ -1,0 +1,1154 @@
+CRITICAL - 2023-02-05 05:42:47 --> Undefined variable $data
+in APPPATH/Controllers/ImportRouterData.php on line 61.
+ 1 APPPATH/Controllers/ImportRouterData.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH/Controllers/ImportRouterData.php', 61)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 05:43:38 --> Undefined variable $result
+in APPPATH/Views/import/display.php on line 22.
+ 1 APPPATH/Views/import/display.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $result', 'APPPATH/Views/import/display.php', 22)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(62): view('import/display', [])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 05:48:20 --> Undefined variable $row
+in APPPATH/Controllers/ImportRouterData.php on line 46.
+ 1 APPPATH/Controllers/ImportRouterData.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'APPPATH/Controllers/ImportRouterData.php', 46)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 05:49:55 --> Array to string conversion
+in APPPATH/Controllers/ImportRouterData.php on line 47.
+ 1 APPPATH/Controllers/ImportRouterData.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH/Controllers/ImportRouterData.php', 47)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 05:50:34 --> Array to string conversion
+in APPPATH/Controllers/ImportRouterData.php on line 50.
+ 1 APPPATH/Controllers/ImportRouterData.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH/Controllers/ImportRouterData.php', 50)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 05:50:59 --> Array to string conversion
+in APPPATH/Controllers/ImportRouterData.php on line 51.
+ 1 APPPATH/Controllers/ImportRouterData.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH/Controllers/ImportRouterData.php', 51)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 05:55:36 --> Undefined variable $rows
+in APPPATH/Views/import/display.php on line 20.
+ 1 APPPATH/Views/import/display.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rows', 'APPPATH/Views/import/display.php', 20)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(81): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 05:55:58 --> Undefined variable $sheet_data
+in APPPATH/Views/import/display.php on line 20.
+ 1 APPPATH/Views/import/display.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sheet_data', 'APPPATH/Views/import/display.php', 20)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(81): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 05:56:57 --> Undefined variable $result
+in APPPATH/Views/import/display.php on line 22.
+ 1 APPPATH/Views/import/display.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $result', 'APPPATH/Views/import/display.php', 22)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(81): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 05:57:22 --> Undefined array key "sap_id"
+in APPPATH/Views/import/display.php on line 26.
+ 1 APPPATH/Views/import/display.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "sap_id"', 'APPPATH/Views/import/display.php', 26)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(81): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 06:13:15 --> Undefined variable $rows
+in APPPATH/Controllers/ImportRouterData.php on line 46.
+ 1 APPPATH/Controllers/ImportRouterData.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rows', 'APPPATH/Controllers/ImportRouterData.php', 46)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 06:14:39 --> Undefined variable $rows
+in APPPATH/Views/import/display.php on line 20.
+ 1 APPPATH/Views/import/display.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rows', 'APPPATH/Views/import/display.php', 20)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(96): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 06:15:52 --> Undefined variable $rows
+in APPPATH/Views/import/display.php on line 20.
+ 1 APPPATH/Views/import/display.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rows', 'APPPATH/Views/import/display.php', 20)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(96): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 06:18:29 --> Trying to access array offset on value of type int
+in APPPATH/Views/import/display.php on line 22.
+ 1 APPPATH/Views/import/display.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH/Views/import/display.php', 22)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(96): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 06:19:09 --> Trying to access array offset on value of type int
+in APPPATH/Views/import/display.php on line 22.
+ 1 APPPATH/Views/import/display.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH/Views/import/display.php', 22)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(96): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 06:27:23 --> Undefined variable $sheet_data
+in APPPATH/Views/import/display.php on line 20.
+ 1 APPPATH/Views/import/display.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sheet_data', 'APPPATH/Views/import/display.php', 20)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(96): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 06:28:31 --> Undefined variable $sheet_data
+in APPPATH/Views/import/display.php on line 20.
+ 1 APPPATH/Views/import/display.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sheet_data', 'APPPATH/Views/import/display.php', 20)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(96): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 06:31:38 --> Undefined array key 0
+in APPPATH/Views/import/display.php on line 22.
+ 1 APPPATH/Views/import/display.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'APPPATH/Views/import/display.php', 22)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(64): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 06:32:05 --> Undefined array key 1
+in APPPATH/Views/import/display.php on line 23.
+ 1 APPPATH/Views/import/display.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'APPPATH/Views/import/display.php', 23)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/import/display.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1177): CodeIgniter\View\View->render('import/display', [], true)
+ 5 APPPATH/Controllers/ImportRouterData.php(64): view('import/display', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:12:00 --> Undefined property: App\Controllers\ImportRouterData::$input
+in APPPATH/Controllers/ImportRouterData.php on line 101.
+ 1 APPPATH/Controllers/ImportRouterData.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$input', 'APPPATH/Controllers/ImportRouterData.php', 101)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:14:18 --> Undefined array key 0
+in APPPATH/Controllers/ImportRouterData.php on line 102.
+ 1 APPPATH/Controllers/ImportRouterData.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'APPPATH/Controllers/ImportRouterData.php', 102)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:16:37 --> Undefined array key 0
+in APPPATH/Controllers/ImportRouterData.php on line 102.
+ 1 APPPATH/Controllers/ImportRouterData.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'APPPATH/Controllers/ImportRouterData.php', 102)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:17:27 --> Undefined array key 0
+in APPPATH/Controllers/ImportRouterData.php on line 102.
+ 1 APPPATH/Controllers/ImportRouterData.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'APPPATH/Controllers/ImportRouterData.php', 102)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:28:18 --> Undefined property: App\Controllers\ImportRouterData::$ImportModel
+in APPPATH/Controllers/ImportRouterData.php on line 111.
+ 1 APPPATH/Controllers/ImportRouterData.php(111): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$ImportModel', 'APPPATH/Controllers/ImportRouterData.php', 111)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:30:09 --> Undefined property: App\Controllers\ImportRouterData::$Import_model
+in APPPATH/Controllers/ImportRouterData.php on line 111.
+ 1 APPPATH/Controllers/ImportRouterData.php(111): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ImportRouterData::$Import_model', 'APPPATH/Controllers/ImportRouterData.php', 111)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:31:52 --> Class "App\Controllers\Import_model" not found
+in APPPATH/Controllers/ImportRouterData.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:32:42 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::insert_batch()
+in APPPATH/Models/Import_model.php on line 25.
+ 1 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(null)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:34:34 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::insert()
+in APPPATH/Models/Import_model.php on line 25.
+ 1 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(null)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:36:49 --> App\Models\Import_model::__construct(): Argument #1 ($db) must be of type App\Models\ConnectionInterface, null given, called in /Users/codeigniter4/system/Config/Factories.php on line 129
+in APPPATH/Models/Import_model.php on line 11.
+ 1 SYSTEMPATH/Config/Factories.php(129): App\Models\Import_model->__construct(null)
+ 2 SYSTEMPATH/Config/Factories.php(86): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 3 SYSTEMPATH/Common.php(818): CodeIgniter\Config\Factories::models('App\\Models\\Import_model', [...], null)
+ 4 APPPATH/Controllers/ImportRouterData.php(16): model('App\\Models\\Import_model')
+ 5 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 6 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:37:17 --> Call to a member function insert() on null
+in APPPATH/Models/Import_model.php on line 30.
+ 1 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(null)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:37:59 --> Call to a member function insert() on null
+in APPPATH/Models/Import_model.php on line 31.
+ 1 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(null)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:38:27 --> Call to a member function insert() on null
+in APPPATH/Models/Import_model.php on line 31.
+ 1 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(null)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:39:50 --> Call to a member function insert() on null
+in APPPATH/Models/Import_model.php on line 31.
+ 1 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter([...])
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:42:01 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(641): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH/Model.php(802): CodeIgniter\Model->builder()
+ 3 APPPATH/Models/Import_model.php(30): CodeIgniter\Model->__get('load')
+ 4 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 15:43:10 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(641): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH/Model.php(802): CodeIgniter\Model->builder()
+ 3 APPPATH/Models/Import_model.php(30): CodeIgniter\Model->__get('load')
+ 4 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 15:46:52 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 15:46:52 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 15:48:55 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 15:48:55 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 15:51:38 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 15:51:38 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 15:54:51 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 15:54:51 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 15:59:42 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 15:59:42 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 16:02:26 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 16:02:26 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 16:05:26 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 16:05:26 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 16:11:28 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('p:localhost', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 16:11:28 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 16:11:49 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('p:localhost', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 16:11:49 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(113): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 16:16:53 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH/Controllers/ImportRouterData.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 16:19:59 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH/Controllers/ImportRouterData.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 16:20:01 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH/Controllers/ImportRouterData.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 16:20:02 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH/Controllers/ImportRouterData.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 16:20:02 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH/Controllers/ImportRouterData.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 16:20:02 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH/Controllers/ImportRouterData.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 16:20:02 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH/Controllers/ImportRouterData.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 16:20:16 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', '/Users/codeigni...', 174)
+#1 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('p:mysql', 'root', '', 'router_data', 3306, '', 0)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#3 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#4 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#5 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#7 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#8 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#9 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#12 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('p:mysql', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 16:20:16 --> Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 16:22:00 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', '/Users/codeigni...', 174)
+#1 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('p:mysql', 'root', '', 'ucms', 3306, '', 0)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#3 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#4 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#5 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#7 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#8 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#9 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#12 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('p:mysql', 'root', '', 'ucms', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 16:22:00 --> Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 16:22:32 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('p:localhost', 'root', '', 'ucms', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 16:22:32 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 16:31:20 --> Class "CodeIgniter\Database\MariaDB\Connection" not found
+in SYSTEMPATH/Database/Database.php on line 138.
+ 1 SYSTEMPATH/Database/Database.php(56): CodeIgniter\Database\Database->initDriver('MariaDB', 'CodeIgniter\\Database\\MariaDB\\Connection', [...])
+ 2 SYSTEMPATH/Database/Config.php(82): CodeIgniter\Database\Database->load([...], 'default')
+ 3 SYSTEMPATH/Model.php(154): CodeIgniter\Database\Config::connect('default')
+ 4 SYSTEMPATH/Config/Factories.php(129): CodeIgniter\Model->__construct(null)
+ 5 SYSTEMPATH/Config/Factories.php(86): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 6 SYSTEMPATH/Common.php(818): CodeIgniter\Config\Factories::models('App\\Models\\Import_model', [...], null)
+ 7 APPPATH/Controllers/ImportRouterData.php(17): model('App\\Models\\Import_model')
+ 8 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\ImportRouterData->__construct()
+ 9 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+10 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 16:31:43 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('p:localhost', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 16:31:43 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 16:34:39 --> Call to undefined function App\Controllers\php_info()
+in APPPATH/Controllers/ImportRouterData.php on line 23.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 17:18:13 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('p:localhost', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 17:18:13 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 17:27:31 --> Object of class CodeIgniter\Database\MySQLi\Builder could not be converted to string
+in APPPATH/Models/Import_model.php on line 23.
+ 1 APPPATH/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter([...])
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 17:28:12 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH/Models/Import_model.php on line 23.
+ 1 APPPATH/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter([...])
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 17:28:24 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH/Models/Import_model.php on line 23.
+ 1 APPPATH/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter([...])
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 17:40:04 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('p:localhost', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(19): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(19): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 17:40:04 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(19): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+CRITICAL - 2023-02-05 17:58:40 --> Call to a member function isValid() on null
+in APPPATH/Controllers/ImportRouterData.php on line 94.
+ 1 APPPATH/Controllers/ImportRouterData.php(34): App\Controllers\ImportRouterData->uploadFile('FCPATH/documents/users', null)
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->import()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 18:00:31 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('p:localhost', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(19): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(19): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 18:00:31 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(19): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
+ERROR - 2023-02-05 18:43:06 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:174
+Stack trace:
+#0 /Users/codeigniter4/system/Database/MySQLi/Connection.php(174): mysqli->real_connect('p:localhost', 'root', '', 'router_data', 3306, '', 0)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#2 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /Users/codeigniter4/app/Models/Import_model.php(19): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#6 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#7 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#8 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Users/codeigniter4/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /Users/codeigniter4/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(true)
+#1 /Users/codeigniter4/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Users/codeigniter4/system/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#3 /Users/codeigniter4/app/Models/Import_model.php(19): CodeIgniter\Database\BaseBuilder->insert(Array)
+#4 /Users/codeigniter4/app/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter(Array)
+#5 /Users/codeigniter4/system/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+#6 /Users/codeigniter4/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+#7 /Users/codeigniter4/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/codeigniter4/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 /Users/codeigniter4/system/Commands/Server/rewrite.php(47): require_once('/Users/codeigni...')
+#10 {main}
+CRITICAL - 2023-02-05 18:43:06 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO `router_details` (`sapid`, `hostname`, `loopback`, `mac_addr`) VALUES (:sapid:, :hostname:, :loopback:, :mac_addr:)', [...], false)
+ 3 APPPATH/Models/Import_model.php(19): CodeIgniter\Database\BaseBuilder->insert([...])
+ 4 APPPATH/Controllers/ImportRouterData.php(114): App\Models\Import_model->addRouter([...])
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImportRouterData->saveData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportRouterData))
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('FCPATH/index.php')
