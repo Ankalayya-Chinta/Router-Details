@@ -44,7 +44,7 @@
 }
     </style>
 <script>
-document.getElementById("submitBtn").addEventListener("click", function(e) {
+  document.getElementById("submitBtn").addEventListener("click", function(e) {
   e.preventDefault();
   var rows = $('#routerDetails tbody tr');
   

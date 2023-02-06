@@ -7,3 +7,6 @@
 2. Upload router_data.sql file to SQL Workbench and change DB settings as required
 3. Run composer require phpoffice/phpspreadsheet to install PHP Excel
 4. Launch the app using php spark serve with port 8080
+
+# Excel file format
+Format to upload excel file is in Testing.xlsx file
